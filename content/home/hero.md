@@ -4,7 +4,7 @@ cta_note:
     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
       Show your product version here:<!-- Automatically filled based on data-repo value -->
     </span>
-widget: hero
+widget: book
 cta:
   url: docs/
   label: Get Started
