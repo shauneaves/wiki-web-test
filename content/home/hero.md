@@ -26,7 +26,7 @@ hero_media: book.svg
 ---
 Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
 
-blah blah blah
+blah blah
 
 Write something interesting about your project here.
 
